@@ -1,5 +1,0 @@
-# cp zshenv.example ~/.zshenv
-export DATABASE_PASSWORD=''
-export DATABASE_USERNAME=''
-export RAILS_ENV=development
-

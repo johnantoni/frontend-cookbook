@@ -31,7 +31,7 @@
 	url = git@github.com:johnantoni/notebook.git
 [submodule "pg-notes"]
 	path = pg-notes
-	url = https://github.com/johnantoni/pg-notes
+	url = git@github.com:johnantoni/pg-notes.git
 [submodule "javascript"]
 	path = javascript
 	url = git@github.com:airbnb/javascript.git
@@ -50,3 +50,9 @@
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
 	url = git@github.com:h5bp/html5-boilerplate.git
+[submodule "Cerberus"]
+	path = Cerberus
+	url = git@github.com:TedGoas/Cerberus.git
+[submodule "Email-Boilerplate"]
+	path = Email-Boilerplate
+	url = git@github.com:seanpowell/Email-Boilerplate.git

@@ -13,40 +13,18 @@
 [submodule "docs/gym-docs"]
 	path = docs/gym-docs
 	url = git@github.com:johnantoni/gym-docs.git
-
 [submodule "sass-toolkit"]
 	path = sass-toolkit
 	url = git@github.com:johnantoni/sass-toolkit.git
-[submodule "gym-docs"]
-	path = gym-docs
-	url = git@github.com:johnantoni/gym-docs.git
-[submodule "git-notes"]
-	path = git-notes
-	url = git@github.com:johnantoni/git-notes.git
-[submodule "css-notes"]
-	path = css-notes
-	url = git@github.com:johnantoni/css-notes.git
 [submodule "notebook"]
 	path = notebook
 	url = git@github.com:johnantoni/notebook.git
-[submodule "pg-notes"]
-	path = pg-notes
-	url = git@github.com:johnantoni/pg-notes.git
-[submodule "javascript"]
-	path = javascript
-	url = git@github.com:airbnb/javascript.git
 [submodule "SASS-Guidlines"]
 	path = SASS-Guidlines
 	url = git@github.com:blackfalcon/SASS-Guidlines.git
-[submodule "email/cerberus"]
-	path = email/cerberus
-	url = git@github.com:TedGoas/Cerberus.git
 [submodule "Sass-Mixins"]
 	path = Sass-Mixins
 	url = git@github.com:drublic/Sass-Mixins.git
-[submodule "email/email-boilerplate"]
-	path = email/email-boilerplate
-	url = git@github.com:seanpowell/Email-Boilerplate.git
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
 	url = git@github.com:h5bp/html5-boilerplate.git
